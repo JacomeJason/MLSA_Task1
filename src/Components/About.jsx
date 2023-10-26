@@ -24,19 +24,19 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a Project Management Student , Power Platform Lover and Process Automation Advocate 🥑.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Power Apps",
+  "Power BI",
+  "Data Analysis",
+  "Sharepoint",
+  "Power Automate",
+  "Data Viz",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I'M passionate about solving problems in new creative ways to drive innovation. By using  Power Platform Solutions.";
+  "I'M passionate about solving problems in new creative ways to drive innovation. By using  Power Platform Solutions And Dynamics 365 Solutions.";
 
 const About = () => {
   return (
